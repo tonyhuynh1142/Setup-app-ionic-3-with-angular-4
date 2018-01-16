@@ -1,0 +1,43 @@
+- Link tutorisals:
+https://www.youtube.com/watch?v=ywynAxPjU9w
+
+- Setting and run app:
+https://www.djamware.com/post/58e657b680aca764ec903c2d/ionic-3-and-angular-4-mobile-app-example
+
+- Deploying to a device:
+https://ionicframework.com/docs/intro/deploying/
+
+- Setting Genymotion Emulator:
+http://nguoihiendai.com/bai-viet/su-dung-genymotion-emulator-lam-may-ao-trong-android-studio-tren-mac-os-11/
+http://androidtmc.blogspot.com/2015/08/tao-va-su-dung-may-ao-android-emulator.html
+
+1. Install Java JDK
+http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html
+- Downloading
+- Click to install it
+2. Install Android SDK
+https://developer.android.com/studio/index.html
+- Downloading: Select a different platform (Android Studio package)
+- Click to install it
+3. Environment Variale
+- Get JAVA_HOME path
+- Setup JAVA_HOME to Environment
+- Get ANDROID_HOME path
+- Setup ANDROID_HOME to Environment
+	+ User variables for administrator:
+		- path: C:\Users\Administrator\AppData\Local\Android\Sdk\platform-tools;C:\Users\Administrator\AppData\Local\Android\Sdk\tools
+	+ Systemvariables:
+		- Path: ;%Sdk%\tools;%ANDROID_HOME%\platform-tools;%ANDROID_HOME%\build-tools
+
+4.Install NodeJS
+- Click to install it
+- Downloading
+- Click to install it
+5. Install Cordova version 6.3.1
+- Windows key + R => cmd
+- npm install -g cordova@6.3.1 ionic
+- test version cordova
+
+6. Intall ionic
+- Windows key + R => cmd
+- New Project: ionic start MyApp blank
