@@ -1,0 +1,76 @@
+Research Ionic 3 and angular js 4:
+
+Tutotial youtube:
+https://www.youtube.com/watch?v=JcEGTektejA&index=1&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct
+
+Cordova ionic start :
+https://ionicframework.com/getting-started
+https://ionicframework.com/docs/pro/basics/welcome/
+
+Generate component or page:
+https://ionicframework.com/docs/cli/generate/
+
+Setup git workflow ionic:
+https://ionicframework.com/docs/pro/basics/git/#installing-git
+https://gradle.org/releases/
+
+Connect app:
+https://dashboard.ionicjs.com/app/b2ee57e3/code/builds/list
+
+Setup deploy:
+https://ionicframework.com/docs/intro/deploying/
+https://www.genymotion.com/account/create/success/?email=huumy1194%40gmail.com
+
+=========================================================
+Angular js 4:
+Youtube Tutorials:
+https://www.youtube.com/watch?v=q8RdFZw-gjo&list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC
+
+15/1: https://www.youtube.com/watch?v=caP7dY9BY5c&index=5&list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC
+
+Docs:
+https://angular.io/docs
+
+Get start: 
+https://angular.io/guide/quickstart
+
+Just-in-time (JIT) compilation:
+https://angular.io/guide/glossary#jit
+or he Ahead-of-Time (AOT) Compiler:
+https://angular.io/guide/aot-compiler
+
+Init API:
+https://angular.io/api/common/AsyncPipe
+
+Template-syntax:
+https://angular.io/guide/template-syntax
+https://embed.plnkr.co/?show=preview
+
+Component events with EventEmitter:
+https://toddmotto.com/component-events-event-emitter-output-angular-2#invoking-the-eventemitter-instance
+
+Search API:
+https://angular.io/api/
+
+===============================================
+Connect ionic - firebare - angular app
+
+Tutorials:
+https://www.youtube.com/watch?v=VUNkjQ_k2Uc&index=15&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct
+
+Firebare datebase:
+https://console.firebase.google.com/project/chat-angular-app/authentication/users?hl=vi
+
+Clone source GIT:
+https://github.com/didinj/ionic3-angular4-cordova-sqlite-example
+
+Gradle pagkage:
+https://gradle.org/releases/
+
+===================================================
+Review top app
+- ionic:
+https://showcase.ionicframework.com/apps/top
+
+- React- Native:
+http://facebook.github.io/react-native/showcase.html

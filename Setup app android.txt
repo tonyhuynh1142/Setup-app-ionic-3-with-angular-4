@@ -41,3 +41,7 @@ https://developer.android.com/studio/index.html
 6. Intall ionic
 - Windows key + R => cmd
 - New Project: ionic start MyApp blank
+
+7. Install GEMYNATION:
+- https://docs.genymotion.com/Content/01_Get_Started/Requirements.htm
+- https://docs.genymotion.com/Content/04_Tools/Genymotion_Shell/Starting_Genymotion_Shell.htm
