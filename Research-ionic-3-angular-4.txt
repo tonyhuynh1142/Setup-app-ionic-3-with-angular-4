@@ -7,6 +7,12 @@ Cordova ionic start :
 https://ionicframework.com/getting-started
 https://ionicframework.com/docs/pro/basics/welcome/
 
+Demo components:
+https://ionicframework.com/docs/
+
+Style defaults:
+https://ionicframework.com/docs/theming/css-utilities/
+
 Generate component or page:
 https://ionicframework.com/docs/cli/generate/
 
@@ -30,6 +36,9 @@ https://www.youtube.com/watch?v=q8RdFZw-gjo&list=PLzrVYRai0riTA1m7Dasg8eraBr6R9n
 
 Docs:
 https://angular.io/docs
+
+Text KhoaPham:
+https://github.com/vanpho93/learn-angular
 
 Get start: 
 https://angular.io/guide/quickstart

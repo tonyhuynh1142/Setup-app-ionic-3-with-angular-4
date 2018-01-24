@@ -2,3 +2,10 @@ https://developer.android.com/studio/releases/gradle-plugin.html#3-0-0
 
 Change version Gradle:
 https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html#apply_plugin
+
+Android SDK Platform Tools:
+https://developer.android.com/studio/command-line/index.html#tools-platform
+
+
+service directory path
+C:/Users/my.huynh.SUTRIXMEDIA1/.gradle
